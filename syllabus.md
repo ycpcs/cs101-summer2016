@@ -6,14 +6,11 @@ title: Syllabus
 CS 101 - Introduction to Computer Science I
 ===========================================
 
-**Spring 2016**
+**Summer 2016**
 
 Instructors:
 
-- Section 101: [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, Office hours MWF 10:00-11:00AM, TR 9:30-10:30AM, by appointment
-- Sections 102, 103: Morris Miller, <mmmiller@ycp.edu>, Office hours TBD
-- Section 104: [David Babcock](http://faculty.ycp.edu/~dbabcock/), <dbabcock@ycp.edu>, Office hours  M 2:00-3:00PM, T 1:30-3:00PM, W 8:30-10:00AM, R 8:30-9:30AM, or by appointment
-- Sections 105, 106: Deepti Jindal, <djindal@ycp.edu>, Office hours T 11:30AM-12:30PM, by appointment
+- Section 101: [David Babcock](http://faculty.ycp.edu/~dbabcock/), <dbabcock@ycp.edu>, Office hours  T R 10:30-11:30AM, or by appointment
 
 Course Description
 ------------------
@@ -52,10 +49,10 @@ Policies
 
 Your course grade will be determined as follows:
 
+-   Homework (programming assignments): 15% **(\*)**
 -   Quizzes (in class): 10%
 -   Required CloudCoder exercises: 5%
--   Homework (programming assignments): 15% **(\*)**
--   Exams (4 midterms and 1 cumulative final exam, lowest score dropped): 70% **(&dagger;)**
+-   Exams (2 midterms and 1 cumulative final exam, lowest score dropped): 70% **(&dagger;)**
 
 **(\*)** You must demonstrate significant effort on all homework assignments in order to pass the course. The very important Outcome CO12 (Use top-down design to decompose complex problems into simpler problems) cannot be assessed based on exams alone. This will be demonstrated via homework assignments. Failure to demonstrate this outcome on homework assignments will be grounds for failure even with a high exam average.
 
@@ -77,7 +74,7 @@ The grading scale for the course is given below. Please note that this grading s
 
 ### Course website
 
-Please check the course web page, <http://ycpcs.github.io/cs101-spring2016/>, regularly for important announcements.
+Please check the course web page, <http://ycpcs.github.io/cs101-summer2016/>, regularly for important announcements.
 
 ### Reading Assignments
 
@@ -86,7 +83,7 @@ Readings from your text book will be assigned throughout the semester. You will 
 ### Posting and submission of assignments and labs
 
 Assignments and (some) labs will be posted as zip files on the course web page,
-<http://ycpcs.github.io/cs101-spring2016/>.
+<http://ycpcs.github.io/cs101-summer2016/>.
 
 Assignments will be submitted using the server <https://cs.ycp.edu/marmoset/>. You will receive an email containing the username and password you will use for this server.
 
@@ -118,7 +115,7 @@ Violations of the policy, such as failing to cite collaborators or electronic co
 
 ### Exams
 
-**Exams will be closed-book, closed-notes.** They will last approximately 60 minutes and will be administered at the beginning of the class period. **Exams will include a programming component.** The last half of the class may be used for instruction and/or laboratory work. A total of five exams will be administered. The lowest scoring exam will be dropped.
+**Exams will be closed-book, closed-notes.** They will last approximately 75 minutes and will be administered at the beginning of the class period. **Exams will include a programming component.**
 
 ### In-class laboratories
 
@@ -126,7 +123,7 @@ Students will work on programs during most class periods. At the end of the clas
 
 ### Attendance and Participation
 
-**Do not miss class!**  If you do not attend class, show significant effort on the lab assignment by the end of the day, or if you are seen doing non-lab activities before finishing a lab, you will be considered absent. The first absence will result in a 1 percentage point deduction from your final grade. The total percentage point deduction for 2 or greater absences will be calculated using the following formula:
+**Do not miss class!**  Since the classes are 1 1/2 hours long, you will fall far behind by missing even one. If you do not attend class, show significant effort on the lab assignment by the end of the day, or if you are seen doing non-lab activities before finishing a lab, you will be considered absent. The first absence will result in a 1 percentage point deduction from your final grade. The total percentage point deduction for 2 or greater absences will be calculated using the following formula:
 
 > 2<sup>(<i>absences</i> - 1)</sup>
 
