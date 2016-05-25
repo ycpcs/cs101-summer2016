@@ -24,6 +24,8 @@ All information about the course will be posted here.
 
 * **May 17** - Welcome back!  You should get started by reading [How to succeed in CS 101](success.html).
 * **May 27** - **UPDATED** [Assignment 1](assign/assign01.html) is due Friday, May 27th by 11:59 PM.
+* **June 3** - [Assignment 2 - Milestone 1](assign/assign02.html) is due Friday, Jun 3rd by 11:59 PM.
+* **June 8** - [Assignment 2 - Milestone 2](assign/assign02.html) is due Wednesday, Jun 8th by 11:59 PM.
 * **June 23 - EXAM I**
 
 <!--
