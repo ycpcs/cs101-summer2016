@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 3: Take Me Out To The Ballgame"
 ---
 
-**Due**: Monday, March 21st by 11:59 PM
+**Due**: Tuesday, June 21st by 11:59 PM
 
 Primary course learning outcomes supported by this assignment:
 
