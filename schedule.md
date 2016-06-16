@@ -5,7 +5,7 @@ title: Schedule
 
 This schedule is subject to change.  Any change will be announced in class and on the course web page.
 
-Note: CloudCoder exercises marked with a gold star (<img src="{{site.url}}/img/goldstar-tiny.png" />) are challenging!
+Note: The CloudCoder exercises marked with a gold star (![gold star](img/goldstar-tiny.png)) are *challenge problems*.  They are harder than the normal CloudCoder exercises; completing them demonstrates significant mastery of the course topics.  You should definitely try and complete these!
 
 > Week | Topics, Readings       | CloudCoder Exercises
 > ---- | ---------------------- | --------------------
