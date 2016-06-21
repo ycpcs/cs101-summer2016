@@ -70,7 +70,7 @@ The following is the sample output when the “2005.txt” file is used.
 
     Array size:             988
     Mean:                   203.03
-    Standard deviation:     132.17
+    Standard deviation:     132.54
     Median:                 238
       averages      qty
      ----------     ---
