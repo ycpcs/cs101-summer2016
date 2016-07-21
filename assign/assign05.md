@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 5: Chomp, Chomp, Chomp"
 ---
 
-**Milestone 1: Due Friday, July 22nd by 11:59 PM**
+**Milestone 1: Due Tuesday, July 26th by 11:59 PM**
 
 **Milestone 2: Due Wednesday, Aug 3rd by 11:59 PM**
 
@@ -104,8 +104,8 @@ like this when you run the program:
 
 > ![image](images/assign05/drawBoard.png)
 
-Milestone 1 - Due Friday July 22nd
-----------------------------------
+Milestone 1 - Due Tuesday July 26th
+-----------------------------------
 
 The first milestone will add the player and allow them to move around the board.
 
@@ -180,7 +180,7 @@ At this point you will have a playable game, but the ghosts will move extremely 
 Grading Criteria
 ----------------
 
-**Milestone 1 - Due Friday July 22nd by 11:59PM - 75 points**
+**Milestone 1 - Due Tuesday July 26th by 11:59PM - 75 points**
 
 > **5 points** - add **Player** structure with necessary fields and add field to **Scene** for player
 	
