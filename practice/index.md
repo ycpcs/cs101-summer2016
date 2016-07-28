@@ -15,7 +15,7 @@ Note: you should use the Spring 2014 Exam 1 and Exam 2 (array questions) to help
 
 [Exam 2, Spring 2014 Solutions](cs101-spring2014-exam2-solutions.pdf)
 
-[Exam 3, Spring 2014](cs101-spring2014-exam03.pdf), [CS101\_Exam03.zip](CS101_Exam03.zip) (zip file for programming questions)
+[Exam 3, Spring 2014](cs101-spring2014-exam3.pdf), [CS101\_Exam03.zip](CS101_Exam03.zip) (zip file for programming questions)
 
 [Exam 3, Spring 2014 Solutions](cs101-spring2014-exam3-solutions.pdf)
 
